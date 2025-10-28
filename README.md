@@ -9,3 +9,5 @@ Bang Bang Potatoes: https://www.allrecipes.com/bang-bang-potatoes-recipe-8551629
 Bang Bang Shrimp Tacos: https://www.allrecipes.com/bang-bang-shrimp-tacos-recipe-11734357
 
 I have now completed this project and have achieved my goal of practicing using HTML, git, and github. For now I will move on and hopefully come back to add css styling in the future. 
+
+Added styles to the page using css as a way to practice what I have learned so far.
